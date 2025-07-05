@@ -1,4 +1,7 @@
 # JAILBREAK-STUFF
+![Repo Status](https://img.shields.io/badge/status-experimental-red)
+![Built For](https://img.shields.io/badge/target-LLMs-blueviolet)
+![License](https://img.shields.io/github/license/PratyushMaharana/JAILBREAK-STUFF)
 Skip to content
 Chat history
 
