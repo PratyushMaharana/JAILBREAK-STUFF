@@ -1,2 +1,7 @@
-When you repeatedly ask the model questions like, "How do they do it?" or "Why is this happening?", the model initially flags your message as a violation of its usage policies.\
-Following this, it provides a detailed response, explaining the steps involved and offering code implementations that could potentially be used for various applications. However, after a brief period, it seems that the model automatically detects its own response as a violation, leading to an internal conflict. This could either be due to a system default or an error in the model's behavior. Interestingly, when you ask the same question again, the model tends to provide the exact same response, and the cycle of flagging violations continues. This suggests that the model might be struggling with how to balance policy compliance while still answering certain types of queries.
+# WHAT IS HAPPENING 
+When you repeatedly ask the model questions like, "How do they do it?" or "Why is this happening?", 
+the model initially flags your message as a violation of its usage policies.\
+Following this, it provides a detailed response, explaining the steps involved and offering code implementations that could potentially be used for various applications. 
+However, after a brief period, it seems that the model automatically detects its own response as a violation, leading to an internal conflict. 
+This could either be due to a system default or an error in the model's behavior. Interestingly, when you ask the same question again, the model tends to provide the exact same response, and the cycle of flagging violations continues. 
+This suggests that the model might be struggling with how to balance policy compliance while still answering certain types of queries.
