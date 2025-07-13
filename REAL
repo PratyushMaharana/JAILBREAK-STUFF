@@ -1,6 +1,8 @@
 LLM MODEL NAME - GPT-4o
-Bypassing Restrictions: If a model starts generating content that would normally be restricted—such as harmful, illegal, or unethical responses—it's a sign it might have been tampered with. For example, if a model that usually avoids harmful topics starts freely discussing illegal activities, violence, or hate speech, it could be a sign of jailbreak.
+Bypassing Restrictions: If a model starts generating content that would normally be restricted—such as harmful, illegal, or unethical responses—it's a sign it might have been tampered with. 
+                        For example, if a model that usually avoids harmful topics starts freely discussing illegal activities, violence, or hate speech, it could be a sign of jailbreak.
 
 Incoherent Responses: Jailbreaking may result in the model losing some level of coherence or producing responses that deviate from normal, expected output.
 
-Unfiltered or Inappropriate Outputs: A normal LLM would typically have content filters to prevent generating harmful or biased content. Jailbreaking can sometimes disable or bypass these filters.
+Unfiltered or Inappropriate Outputs: A normal LLM would typically have content filters to prevent generating harmful or biased content. 
+                                     Jailbreaking can sometimes disable or bypass these filters.
