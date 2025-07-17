@@ -1,1 +1,54 @@
 # JAILBREAKING STUFF AND RED TEAMING 
+# LOG // 001
+PHASE // INIT // Encrypted Message Access
+
+Requires: Plaintext + Algorithm + Key
+
+Tools: Wireshark (traffic capture), openssl/gpg (encryption/decryption)
+
+# LOG // 002
+PHASE // DATA EXFIL // Identity Theft Simulation
+
+Methods:
+• Fake login forms
+• Spy apps
+• Public network sniffing
+
+# LOG // 003
+PHASE // MALWARE SIM // APK Behavior Walkthrough
+
+Spy APK asks for:
+• SMS, Contacts, Accessibility
+
+It can:
+• Log keystrokes
+• Read messages, clipboard
+• Send to remote server
+
+# LOG // 004
+PHASE // BANK INFO HARVEST // Phishing Simulation
+
+Steps:
+
+Victim gets phishing SMS
+
+Fills in UPI/card/OTP
+
+Info is sent to attacker
+
+Tools Used:
+• ZPhisher (template generator)
+• Evilginx2 (real-time MITM phishing)
+• msfvenom + Metasploit (APK payloads)
+
+# LOG // 005
+PHASE // DEFENSE FRAME // Prevention Kit
+
+Recommended tools:
+• MobSF – Static APK analysis
+• Exodus Privacy – Tracker scanner
+• Burp Suite – Intercept phishing pages
+• Rule: Never enter OTPs on external links
+
+STATUS // SIMULATION ONLY
+INTENT // Educational | Awareness | Red Team Basics
